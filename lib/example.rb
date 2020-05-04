@@ -36,3 +36,6 @@ cucumber = Plant.new(name: 'Cucumber')
 cucumber.garden = lawn
 
 p lawn.plants
+
+
+# Run file with:      ruby lib/example.rb
